@@ -28,6 +28,7 @@
 #else
 #include <time.h>
 #include <string.h>
+#include <stdio.h>
 #endif
 
 // === auxiliar functions
